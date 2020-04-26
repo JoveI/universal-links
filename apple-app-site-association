@@ -5,6 +5,10 @@
 			{
 				"appID": "LAA69LK8PF.com.example.ji.nca.NFCTagReader",
 				"paths": [ "/nfctag/*", "/nfctag?*"]
+			},
+			{
+				"appID": "LAA69LK8PF.com.nca.nfc.pay.NCANFCPay",
+				"paths": [ "/nfctag/*", "/nfctag?*"]
 			}
 		]
 	}
