@@ -8,7 +8,7 @@
 			},
 			{
 				"appID": "LAA69LK8PF.com.nca.nfc.pay.NCANFCPay",
-				"paths": [ "/nfctag/*", "/nfctag?*"]
+				"paths": [ "/nfctag/*", "/nfctag?*", "/nfctag" ]
 			}
 		]
 	}
