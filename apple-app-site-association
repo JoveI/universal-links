@@ -9,6 +9,14 @@
 			{
 				"appID": "LAA69LK8PF.com.nca.nfc.pay.NCANFCPay",
 				"paths": [ "/nfctag/*", "/nfctag?*", "/nfctag" ]
+			},
+			{
+				"appID": "A83HL2KEAE.com.example.ji.nca.NFCTagReader",
+				"paths": [ "/nfctag/*", "/nfctag?*"]
+			},
+			{
+				"appID": "A83HL2KEAE.com.nca.nfc.pay.NCANFCPay",
+				"paths": [ "/nfctag/*", "/nfctag?*", "/nfctag" ]
 			}
 		]
 	}
