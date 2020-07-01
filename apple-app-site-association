@@ -17,6 +17,10 @@
 			{
 				"appID": "A83HL2KEAE.com.nca.nfc.pay.NCANFCPay",
 				"paths": [ "/nfctag/*", "/nfctag?*", "/nfctag" ]
+			},
+			{
+				"appID": "2L3CR6R6N9.com.nca.nfc.pay.NCANFCPay",
+				"paths": [ "/nfctag/*", "/nfctag?*", "/nfctag" ]
 			}
 		]
 	}
