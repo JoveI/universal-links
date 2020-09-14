@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  BundleLocalization
+
+  Created by Jovan Ivanovski on 9/9/20.
+  Copyright © 2020 Netcetera AG. All rights reserved.
+*/
+
+"Hello, World!" = "Hello, World!";
+
+"Portrait Lighting. Choose from six studio‑quality effects, then adjust the lighting intensity to show your subject in the best possible light." = "Portrait Lighting. Choose from six studio‑quality effects, then adjust the lighting intensity to show your subject in the best possible light.";
+
+"Apple" = "Apple";
+
+"Privacy is built in. Privacy is built in. Everything we make is designed to give you control over your information. All the iMessages you send are encrypted. Fingerprint data is stored on your device, never on Apple servers or in iCloud. Apple Pay doesn’t share your credit card number. And the list goes on." = "Privacy is built in. Privacy is built in. Everything we make is designed to give you control over your information. All the iMessages you send are encrypted. Fingerprint data is stored on your device, never on Apple servers or in iCloud. Apple Pay doesn’t share your credit card number. And the list goes on.";
+
+"END" = "END";
